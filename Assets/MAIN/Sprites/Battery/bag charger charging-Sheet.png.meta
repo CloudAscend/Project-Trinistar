@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 96c662a9b993a6a41812f398584be38e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5166649059625282217
+    second: bag charger charging-Sheet_0
+  - first:
+      213: 957614892418501955
+    second: bag charger charging-Sheet_1
+  - first:
+      213: -1552591286311436741
+    second: bag charger charging-Sheet_2
+  - first:
+      213: 1079383692620260706
+    second: bag charger charging-Sheet_3
+  - first:
+      213: 3629848172562648214
+    second: bag charger charging-Sheet_4
+  - first:
+      213: -1063530730968106982
+    second: bag charger charging-Sheet_5
+  - first:
+      213: -9048846643054675006
+    second: bag charger charging-Sheet_6
+  - first:
+      213: 5450658537629632044
+    second: bag charger charging-Sheet_7
+  - first:
+      213: 8248207508589305593
+    second: bag charger charging-Sheet_8
+  - first:
+      213: 6688086498738007914
+    second: bag charger charging-Sheet_9
+  - first:
+      213: 5872308983094687779
+    second: bag charger charging-Sheet_10
+  - first:
+      213: -4800860489429054539
+    second: bag charger charging-Sheet_11
+  - first:
+      213: 68545651940514463
+    second: bag charger charging-Sheet_12
+  - first:
+      213: -3862927826166327943
+    second: bag charger charging-Sheet_13
+  - first:
+      213: 907494902862810234
+    second: bag charger charging-Sheet_14
+  - first:
+      213: 2645881286906314493
+    second: bag charger charging-Sheet_15
+  - first:
+      213: 3831728031529027
+    second: bag charger charging-Sheet_16
+  - first:
+      213: -22988836597049424
+    second: bag charger charging-Sheet_17
+  - first:
+      213: -6941992456025232553
+    second: bag charger charging-Sheet_18
+  - first:
+      213: 5052753702133851530
+    second: bag charger charging-Sheet_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755dde9ed006c48b0800000000000000
+      internalID: -5166649059625282217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d8a36cba12a4d00800000000000000
+      internalID: 957614892418501955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e3a0a7376147ae0800000000000000
+      internalID: -1552591286311436741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265eaf6efbdbafe00800000000000000
+      internalID: 1079383692620260706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c82326eafcf5230800000000000000
+      internalID: 3629848172562648214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a183fec5f649d31f0800000000000000
+      internalID: -1063530730968106982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb7db5cbe90c6280800000000000000
+      internalID: -9048846643054675006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c264d57af01a4ab40800000000000000
+      internalID: 5450658537629632044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fedc273705877270800000000000000
+      internalID: 8248207508589305593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f6d505c3bd0dc50800000000000000
+      internalID: 6688086498738007914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328b1b448e1ae7150800000000000000
+      internalID: 5872308983094687779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb8f5722daef5db0800000000000000
+      internalID: -4800860489429054539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9adfc248e583f000800000000000000
+      internalID: 68545651940514463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9755268db9f146ac0800000000000000
+      internalID: -3862927826166327943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8d985ec1189c00800000000000000
+      internalID: 907494902862810234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe77ef030f08b420800000000000000
+      internalID: 2645881286906314493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f134bfec9d0000800000000000000
+      internalID: 3831728031529027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b755d066c35eaff0800000000000000
+      internalID: -22988836597049424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bac2934a619af90800000000000000
+      internalID: -6941992456025232553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger charging-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a856a31b8bcfe1640800000000000000
+      internalID: 5052753702133851530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

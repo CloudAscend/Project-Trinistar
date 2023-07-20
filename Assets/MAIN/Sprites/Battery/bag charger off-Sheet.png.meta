@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: b33569ded012c4042be15fdbba6edd72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7636184306721956006
+    second: bag charger off-Sheet_0
+  - first:
+      213: 8581094166127591989
+    second: bag charger off-Sheet_1
+  - first:
+      213: 4580489227687253927
+    second: bag charger off-Sheet_2
+  - first:
+      213: 3858330108195454826
+    second: bag charger off-Sheet_3
+  - first:
+      213: -8783350217994886309
+    second: bag charger off-Sheet_4
+  - first:
+      213: -7208080380508169802
+    second: bag charger off-Sheet_5
+  - first:
+      213: 4718571737208415637
+    second: bag charger off-Sheet_6
+  - first:
+      213: 8673365097513589609
+    second: bag charger off-Sheet_7
+  - first:
+      213: 2804596873669281256
+    second: bag charger off-Sheet_8
+  - first:
+      213: 6588991560073663837
+    second: bag charger off-Sheet_9
+  - first:
+      213: -1768545414730961380
+    second: bag charger off-Sheet_10
+  - first:
+      213: 8523820208880679171
+    second: bag charger off-Sheet_11
+  - first:
+      213: 8096202397458574572
+    second: bag charger off-Sheet_12
+  - first:
+      213: -5112711574054311813
+    second: bag charger off-Sheet_13
+  - first:
+      213: -5091051972108388358
+    second: bag charger off-Sheet_14
+  - first:
+      213: 5454220317022645918
+    second: bag charger off-Sheet_15
+  - first:
+      213: -7655105248832361072
+    second: bag charger off-Sheet_16
+  - first:
+      213: -9036073605047646804
+    second: bag charger off-Sheet_17
+  - first:
+      213: 2666137906901082298
+    second: bag charger off-Sheet_18
+  - first:
+      213: 8596089421797023291
+    second: bag charger off-Sheet_19
+  - first:
+      213: -5462825914460610645
+    second: bag charger off-Sheet_20
+  - first:
+      213: 4647897877699907328
+    second: bag charger off-Sheet_21
+  - first:
+      213: 3564747657202140108
+    second: bag charger off-Sheet_22
+  - first:
+      213: -2058088579261828896
+    second: bag charger off-Sheet_23
+  - first:
+      213: -282893970275883185
+    second: bag charger off-Sheet_24
+  - first:
+      213: 2194439330089190584
+    second: bag charger off-Sheet_25
+  - first:
+      213: -8370256704678750625
+    second: bag charger off-Sheet_26
+  - first:
+      213: -5124754371650732789
+    second: bag charger off-Sheet_27
+  - first:
+      213: -994827649336276517
+    second: bag charger off-Sheet_28
+  - first:
+      213: -351476407266985337
+    second: bag charger off-Sheet_29
+  - first:
+      213: -5291813415177489855
+    second: bag charger off-Sheet_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bag charger off-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fdc6ec4d2d60690800000000000000
+      internalID: -7636184306721956006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324634fdab261770800000000000000
+      internalID: 8581094166127591989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a75dc12faa219f30800000000000000
+      internalID: 4580489227687253927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f3f258aca8b8530800000000000000
+      internalID: 3858330108195454826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a09e43854b1680800000000000000
+      internalID: -8783350217994886309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9195f7511c7fb90800000000000000
+      internalID: -7208080380508169802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5956183befbbb7140800000000000000
+      internalID: 4718571737208415637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b919c4a9bfd5870800000000000000
+      internalID: 8673365097513589609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e58a394ffdebe620800000000000000
+      internalID: 2804596873669281256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55dc36f9ecc07b50800000000000000
+      internalID: 6588991560073663837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea0d1c05dd477e0800000000000000
+      internalID: -1768545414730961380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309f0af9151ba4670800000000000000
+      internalID: 8523820208880679171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec2f2a5f2d7b5070800000000000000
+      internalID: 8096202397458574572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e67569effb09b0800000000000000
+      internalID: -5112711574054311813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77d657433f859b0800000000000000
+      internalID: -5091051972108388358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6ada0b7841bb40800000000000000
+      internalID: 5454220317022645918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d6e1da55a93c590800000000000000
+      internalID: -7655105248832361072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50ade6eea699280800000000000000
+      internalID: -9036073605047646804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0ea0fec46000520800000000000000
+      internalID: 2666137906901082298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e54bbf8c17b4770800000000000000
+      internalID: 8596089421797023291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafd6ca26c42034b0800000000000000
+      internalID: -5462825914460610645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f48908e76a08040800000000000000
+      internalID: 4647897877699907328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3807d7b17887130800000000000000
+      internalID: 3564747657202140108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e07fc467533073e0800000000000000
+      internalID: -2058088579261828896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472b90de65f21cf0800000000000000
+      internalID: -282893970275883185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4cc1fa1f6347e10800000000000000
+      internalID: 2194439330089190584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f569ac6efdfd6db80800000000000000
+      internalID: -8370256704678750625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0db0a41d0731e8b0800000000000000
+      internalID: -5124754371650732789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd903941689a132f0800000000000000
+      internalID: -994827649336276517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78abbedd11e4f1bf0800000000000000
+      internalID: -351476407266985337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag charger off-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 4
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142f2b27cb3bf86b0800000000000000
+      internalID: -5291813415177489855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
